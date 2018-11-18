@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "firstName": "Ricardo",
+        "lastName": "Esteves",
+        "email": "ricardo@esteves.com"
+    },
+    {
+        "id": 2,
+        "firstName": "Cognac",
+        "lastName": "theDog",
+        "email": "cognac@thedog.com"
+    },
+    {
+        "id": 3,
+        "firstName": "Catarina",
+        "lastName": "Sampaio",
+        "email": "catarina@sampaio.com"
+    },
+    {
+        "id": 4,
+        "firstName": "Xpto",
+        "lastName": "Isso",
+        "email": "xpto@isso.com"
+    },
+    {
+        "id": 5,
+        "firstName": "Mais",
+        "lastName": "Um",
+        "email": "mais@um.com"
+    }
+]
