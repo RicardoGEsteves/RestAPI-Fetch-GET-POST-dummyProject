@@ -1,0 +1,26 @@
+{
+  "name": "rest-api-fetch-get-post--dummyproject",
+  "version": "1.0.0",
+  "description": "dummy project RestAPI fetch GET and POST",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RicardoGEsteves/RestAPI-Fetch-GET-POST-dummyProject.git"
+  },
+  "keywords": [
+    "REST",
+    "API",
+    "FETCH",
+    "GET",
+    "POST"
+  ],
+  "author": "Ricardo Esteves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RicardoGEsteves/RestAPI-Fetch-GET-POST-dummyProject/issues"
+  },
+  "homepage": "https://github.com/RicardoGEsteves/RestAPI-Fetch-GET-POST-dummyProject#readme"
+}
